@@ -1,0 +1,1 @@
+<img src="https://ambercreative.sg/wp-content/uploads/2017/05/AmberLogo-817X-279_300-1.png" alt="Amber Creative" class="logo-img" data-no-retina="" style="max-height: 50px;">
